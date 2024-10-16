@@ -32,7 +32,7 @@ gulp.task('js', () => {
 
 // Таск для зображень
 gulp.task('images', () => {
-    return gulp.src('./app/img/**/*')
+    return gulp.src('./app/img/**/*', { encoding: false })
         .pipe(imagemin())
         .pipe(gulp.dest('./dist/imgs'))
         .pipe(browserSync.stream());
