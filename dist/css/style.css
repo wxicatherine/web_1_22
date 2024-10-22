@@ -24,7 +24,7 @@ body {
 
 /* Header */
 .header h1 {
-  color: red;
+  color: rgb(11, 3, 3);
   font-size: 30px;
   margin-bottom: 5px;
 }
@@ -48,9 +48,9 @@ body {
 .about h3 {
   font-size: 22px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #e74c3c;
+  border-bottom: 2px solid #030101;
   padding-bottom: 5px;
-  color: #e74c3c;
+  color: #0d0403;
 }
 
 .about p {
@@ -63,9 +63,9 @@ body {
 .education h3 {
   font-size: 22px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #e74c3c;
+  border-bottom: 2px solid #090302;
   padding-bottom: 5px;
-  color: #e74c3c;
+  color: #120604;
 }
 
 .education-item {
@@ -88,14 +88,12 @@ body {
 
 .education-item h5 {
   font-size: 14px;
-  color: #999;
-  margin-top: 5px;
+  color: #f61010;
 }
 
 .education-item h4 {
   font-size: 16px;
   color: #333;
-  margin-bottom: 5px;
 }
 
 .education-item p {
@@ -107,9 +105,9 @@ body {
 .experience h3 {
   font-size: 22px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #e74c3c;
+  border-bottom: 2px solid #0a0403;
   padding-bottom: 5px;
-  color: #e74c3c;
+  color: #0d0504;
 }
 
 .experience-item {
@@ -165,9 +163,9 @@ body {
 .references h3, .skills h3, .languages h3, .hobbies h3 {
   font-size: 22px;
   margin-bottom: 10px;
-  border-bottom: 2px solid #e74c3c;
+  border-bottom: 2px solid #000000;
   padding-bottom: 5px;
-  color: #e74c3c;
+  color: #000000;
 }
 
 /* References Section */
